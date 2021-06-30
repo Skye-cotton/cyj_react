@@ -1,0 +1,22 @@
+#s1{
+    padding: .1rem .15rem;
+}
+    
+#s2{
+    display: flex;
+    height: 0.4rem;
+    border: 1px solid #decc99;
+    border-radius: .06rem;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+svg{
+    width: .18rem;
+    height: 0.18rem;
+    margin-right: .06rem;
+    fill: #decc99;
+}
+span{
+    color: #666;
+}
